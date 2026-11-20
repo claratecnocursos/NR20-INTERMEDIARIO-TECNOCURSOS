@@ -99,6 +99,36 @@ window.QUESTION_SCREEN_SESSION = {
           transcript: "Classes das instalações. A NR 20 divide as instalações em três classes. A Classe I inclui postos de combustível e depósitos de gás de 2 a 60 toneladas ou líquidos de 10 a 5.000 metros cúbicos. A Classe II engloba engarrafadoras, transporte por dutos e estoques de gás até 600 toneladas ou líquidos até 50.000 metros cúbicos. A Classe III reúne grandes plantas, como refinarias, petroquímicas e usinas de etanol."
         },
         {
+          id: "nr20-m1-normas",
+          type: "content",
+          layout: "defs",
+          kicker: "Referências",
+          title: "Integração normativa da NR 20",
+          body: "Para garantir uma gestão de segurança sólida, a aplicação da NR 20 atua integrada a diversas normas técnicas nacionais e internacionais de referência. Seguir esse conjunto de normas é o nosso compromisso com a conformidade técnica e a vida!",
+          items: [
+            {
+              tag: "Códigos internacionais",
+              metric: "NFPA",
+              title: "NFPA 30 e 70",
+              text: "NFPA 30 para líquidos inflamáveis e combustíveis e NFPA 70 para instalações elétricas."
+            },
+            {
+              tag: "Normas nacionais",
+              metric: "NR",
+              extra: "ABNT",
+              title: "NR-10, NR-26 e NBR",
+              text: "NR-10 para eletricidade, NR-26 para sinalização, NBR 5410 para baixa tensão e NBR 5419 para descargas atmosféricas."
+            },
+            {
+              tag: "Procedimento interno",
+              metric: "PO",
+              title: "PO-COR-SST-011/1",
+              text: "Padroniza os padrões operacionais obrigatórios nas unidades que armazenam ou utilizam líquidos inflamáveis e combustíveis."
+            }
+          ],
+          transcript: "Integração normativa da N R vinte. Para garantir uma gestão de segurança sólida, a aplicação da N R vinte atua integrada a diversas normas técnicas nacionais e internacionais de referência. Utilizamos os códigos internacionais da N F P A, em especial a N F P A trinta para líquidos inflamáveis e combustíveis e a N F P A setenta para instalações elétricas. No âmbito nacional, seguimos a N R dez para segurança em eletricidade, a N R vinte e seis para sinalização de segurança, e as normas da A B N T: a N B R cinco mil quatrocentos e dez para baixa tensão e a N B R cinco mil quatrocentos e dezenove para proteção contra descargas atmosféricas. Internamente, todas essas exigências são padronizadas pelo procedimento P O C O R S S T zero onze barra um, que estabelece os padrões operacionais obrigatórios para todas as unidades operativas que armazenam ou utilizam líquidos inflamáveis e combustíveis. Seguir esse conjunto de normas é o nosso compromisso com a conformidade técnica e a vida."
+        },
+        {
           id: "nr20-m1-glp",
           type: "video",
           kicker: "Vídeo",
@@ -225,6 +255,69 @@ window.QUESTION_SCREEN_SESSION = {
           title: "Organização, Limpeza e Manutenção Preventiva",
           playerId: "panda-e0ea5407-c282-4a0a-814f-1b6732e33802",
           embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=e0ea5407-c282-4a0a-814f-1b6732e33802"
+        },
+        {
+          id: "nr20-m2-matriz",
+          type: "video",
+          kicker: "Vídeo",
+          title: "Matriz de Responsabilidades Intersetoriais na Gestão da NR 20",
+          playerId: "panda-7b306a5a-0506-4871-a46c-f79bc818e7c8",
+          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=7b306a5a-0506-4871-a46c-f79bc818e7c8"
+        },
+        {
+          id: "nr20-m2-setores",
+          type: "content",
+          layout: "roles",
+          kicker: "Gestão",
+          title: "Responsabilidades intersetoriais",
+          body: "Cada setor da empresa tem um papel definido na gestão da NR 20 — juntos formam a segurança coletiva.",
+          items: [
+            {
+              tag: "Estoque e FISPQ",
+              metric: "01",
+              title: "Almoxarifado",
+              text: "Controla a planilha de consumo e mantém as FISPQs do estoque atualizadas."
+            },
+            {
+              tag: "Posto de trabalho",
+              metric: "02",
+              title: "Áreas Usuárias",
+              text: "Solicitam as FISPQs e as mantêm disponíveis no posto de trabalho."
+            },
+            {
+              tag: "SST e prontuário",
+              metric: "03",
+              title: "SGI / Segurança",
+              text: "Gerencia consumo, EPIs, chuveiros e lava-olhos; capacita equipes e atualiza o Prontuário."
+            },
+            {
+              tag: "Inspeção mensal",
+              metric: "04",
+              title: "Manutenção",
+              text: "Inspeciona contenções, mantém válvulas travadas e zela por detectores e tubulações."
+            },
+            {
+              tag: "Projetos técnicos",
+              metric: "05",
+              title: "Engenharia",
+              text: "Elabora os projetos técnicos e o prontuário conforme as normas."
+            },
+            {
+              tag: "Entrada de químicos",
+              metric: "06",
+              title: "Portaria",
+              text: "Libera só cargas autorizadas por Segurança, Qualidade e Almoxarifado."
+            }
+          ],
+          transcript: "Responsabilidades intersetoriais. A gestão da N R vinte envolve uma cadeia de responsabilidades bem definida entre os setores da empresa. O Almoxarifado controla a planilha de consumo e garante as F I S P Qs atualizadas do estoque. As Áreas Usuárias solicitam essas fichas e as mantêm disponíveis junto ao posto de trabalho. O S G I ou Segurança do Trabalho gerencia o consumo, fornece os E P Is adequados, garante os chuveiros e lava-olhos de emergência, capacita colaboradores e terceiros e mantém o Prontuário da Instalação atualizado. A Manutenção inspeciona mensalmente as contenções secundárias, mantém suas válvulas de drenagem travadas e fechadas e zela pelos detectores e tubulações. A Engenharia elabora os projetos técnicos e o prontuário conforme as normas. E a Portaria controla rigorosamente a entrada de produtos químicos, liberando apenas cargas autorizadas por Segurança, Qualidade e Almoxarifado. Cada setor tem um papel vital na segurança coletiva!"
+        },
+        {
+          id: "nr20-m2-riscos",
+          type: "video",
+          kicker: "Vídeo",
+          title: "Identificação de Perigos, Avaliação de Riscos e Controles Administrativos",
+          playerId: "panda-8539e18e-2cc7-42ad-af40-b38de19f6c1f",
+          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=8539e18e-2cc7-42ad-af40-b38de19f6c1f"
         },
         {
           id: "nr20-m2-pares",
@@ -368,33 +461,258 @@ window.QUESTION_SCREEN_SESSION = {
     },
     {
       id: 4,
-      title: "Plano de Ação de Emergência (PAE), Operações de Risco e Resposta a Incidentes",
-      objective: "Capacitar os trabalhadores para agir com rapidez, segurança e eficácia em situações de crise, cobrindo a estrutura do PAE, corte de utilidades, abandono de área, contenção de vazamentos e comunicação com órgãos competentes.",
+      title: "Engenharia de Instalações, Sistemas de Tanques, Ventilação e Contenção de Inflamáveis",
+      objective: "Apresentar os requisitos de engenharia para armazenamento secundário, classificação de áreas, sistemas de tanques, ventilação industrial, bacias de contenção e sistemas de proteção contra incêndio em instalações com inflamáveis.",
       titleUnlock: {
-        title: "CINTO NO LUGAR",
-        body: "Você reconhece o EPI, o dever da NR 06, o SPIQ e o ponto de ancoragem no cesto.",
+        title: "LIMITES NO LUGAR",
+        body: "Você aplicou os limites de armário, doca, zona, tanque, LEL, bacia e dilúvio.",
         icon: "✓"
       },
       screens: [
         {
-          id: "nr11-m4-capa",
+          id: "nr20-m4-capa",
           type: "cover",
           image: "assets/fotos/capa-modulo4.png",
           imageAlt: "Capa do módulo 4",
-          title: "Módulo 4 — Plano de Ação de Emergência (PAE), Operações de Risco e Resposta a Incidentes",
-          subtitle: "Estrutura do PAE, corte de utilidades, abandono de área e contenção de vazamentos.",
-          transcript: "Módulo 4. Plano de ação de emergência, PAE, operações de risco e resposta a incidentes. Estrutura do PAE, corte de utilidades, abandono de área, contenção de vazamentos e comunicação com os órgãos competentes."
+          title: "Módulo 4 — Engenharia de Instalações, Sistemas de Tanques, Ventilação e Contenção de Inflamáveis",
+          subtitle: "Armários corta-fogo, zonas classificadas, tanques, ventilação, contenção e proteção por dilúvio.",
+          transcript: "Módulo 4. Engenharia de instalações, sistemas de tanques, ventilação e contenção de inflamáveis. Armários corta-fogo, classificação de áreas, tanques, ventilação industrial, bacias de contenção e sistemas por dilúvio."
         },
         {
-          id: "nr20-m4-pae",
+          id: "nr20-m4-armarios",
           type: "video",
           kicker: "Vídeo",
-          title: "Conceito de Emergência, Estrutura do PAE e Origens de Risco",
-          playerId: "panda-998964f0-070f-458f-ac8b-6c993bfa06dd",
-          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=998964f0-070f-458f-ac8b-6c993bfa06dd"
+          title: "Armazenamento Secundário em Armários Corta-Fogo e Áreas de Doca",
+          playerId: "panda-0555e721-e484-4af0-a107-0e88ec021229",
+          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=0555e721-e484-4af0-a107-0e88ec021229"
         },
         {
-          id: "nr20-m4-vazamentos",
+          id: "nr20-m4-zonas",
+          type: "video",
+          kicker: "Vídeo",
+          title: "Classificação de Áreas (Zonas 0, 1 e 2), Equipamentos EE/ES e Aterramento Avançado",
+          playerId: "panda-528d3c02-2925-4448-a5c9-01bb7c52f28c",
+          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=528d3c02-2925-4448-a5c9-01bb7c52f28c"
+        },
+        {
+          id: "nr20-m4-limites-visuais",
+          type: "content",
+          layout: "defs",
+          kicker: "Limites",
+          title: "Armário, doca e zonas",
+          body: "Três regras práticas para fracionamento, estocagem transitória e áreas classificadas.",
+          items: [
+            {
+              tag: "Armário corta-fogo",
+              metric: "227",
+              unit: "L",
+              title: "Fracionamento",
+              text: "Recipientes de até 20 L, só o consumo de um turno. Volume total por armário: no máximo 227 L."
+            },
+            {
+              tag: "Área de doca",
+              metric: "8",
+              unit: "h",
+              extra: "< 1.135 L",
+              title: "Estocagem transitória",
+              text: "No máximo 8 horas, recipientes lacrados, extintor por perto e FDS disponível. Sem transferência fora do local."
+            },
+            {
+              tag: "Zonas 0, 1 e 2",
+              metric: "EE",
+              extra: "ES",
+              title: "Equipamentos e aterramento",
+              text: "Empilhadeiras e móveis só com EE ou ES. Aterre o caminhão-tanque antes de abrir tampas ou válvulas."
+            }
+          ],
+          transcript: "Armário, doca e zonas. Frações de até 20 litros fora do depósito principal só para o consumo de um turno, em armário corta-fogo, com no máximo 227 litros por armário. Na doca, no máximo 8 horas, menos de 1.135 litros, recipientes lacrados, extintor e F D S. Em Zonas zero, um e dois, equipamentos móveis precisam de classificação E E ou E S. Caminhões-tanque aterrados antes de abrir tampas ou válvulas."
+        },
+        {
+          id: "nr20-m4-tanques",
+          type: "video",
+          kicker: "Vídeo",
+          title: "Segurança em Sistemas de Tanques Externos e Interiores de Edifícios",
+          playerId: "panda-7024c5fc-d35d-4a85-8d4e-d23965617e50",
+          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=7024c5fc-d35d-4a85-8d4e-d23965617e50"
+        },
+        {
+          id: "nr20-m4-ventilacao",
+          type: "video",
+          kicker: "Vídeo",
+          title: "Ventilação Industrial e Controle do Limite Inferior de Explosividade — LEL",
+          playerId: "panda-88045b59-5901-414e-ab43-f2213f84d12b",
+          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=88045b59-5901-414e-ab43-f2213f84d12b"
+        },
+        {
+          id: "nr20-m4-bacias",
+          type: "video",
+          kicker: "Vídeo",
+          title: "Bacias de Contenção Secundária, Drenagem e Travamento de Válvulas",
+          playerId: "panda-4ed94ab8-d52e-4306-9749-9de7d4598ed8",
+          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=4ed94ab8-d52e-4306-9749-9de7d4598ed8"
+        },
+        {
+          id: "nr20-m4-protecao",
+          type: "content",
+          layout: "defs",
+          kicker: "Proteção",
+          title: "Tanques, LEL e contenção",
+          body: "Números que travam a engenharia de tanques, ventilação e bacias de contenção.",
+          items: [
+            {
+              tag: "Tanques",
+              metric: "15",
+              unit: "m",
+              extra: "3 × 3.000 L",
+              title: "Externos e internos",
+              text: "Externos a 15 m de prédios ou com dilúvio e espuma. Internos: no máximo três tanques metálicos de 3.000 L."
+            },
+            {
+              tag: "Ventilação",
+              metric: "25",
+              unit: "%",
+              extra: "LEL",
+              title: "Limite de vapores",
+              text: "Manter abaixo de 25% do LEL. Em ambiente fechado: 0,3 m³/min/m². Em 25% do LEL, exaustão total."
+            },
+            {
+              tag: "Bacia secundária",
+              metric: "110",
+              unit: "%",
+              title: "Contenção e drenagem",
+              text: "Capacidade de 110% do maior tanque + água de combate. Válvulas fechadas e travadas. Drena só após análise."
+            }
+          ],
+          transcript: "Tanques, L E L e contenção. Tanques externos a pelo menos 15 metros de prédios habitados, ou com dilúvio e espuma. Dentro do edifício, no máximo três tanques metálicos de 3.000 litros. A ventilação mantém os vapores abaixo de 25 por cento do L E L, com vazão mínima de 0,3 metros cúbicos por minuto por metro quadrado. A bacia de contenção tem no mínimo 110 por cento do maior tanque, válvulas travadas, e a água de chuva só drena após análise sem contaminantes."
+        },
+        {
+          id: "nr20-m4-diluvio",
+          type: "video",
+          kicker: "Vídeo",
+          title: "Sistema por Dilúvio, Chuveiros Diários e Inspeção de Tanques",
+          playerId: "panda-e513dde9-72ee-4c7d-8aae-a55d6e8fb8be",
+          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=e513dde9-72ee-4c7d-8aae-a55d6e8fb8be"
+        },
+        {
+          id: "nr20-m4-limites",
+          type: "console",
+          title: "Limite certo",
+          body: "Uma situação por vez. Toque na ação certa.",
+          transcript: "Limite certo. Uma situação por vez. Toque na ação certa. São seis situações: armário corta-fogo, zona classificada, tanque interno, L E L, bacia de contenção e chuveiro de emergência.",
+          doneText: "As seis situações estão certas.",
+          doneLabel: "Concluir",
+          items: [
+            {
+              ask: "Frações de até 20 L fora do depósito principal. Qual limite do armário corta-fogo?",
+              hint: "O volume total por armário corta-fogo não pode exceder 227 litros. Também precisa atender só o consumo de um turno e ficar em armário corta-fogo ou câmara refrigerada segura. Na doca, o limite é outro: até 8 horas e menos de 1.135 litros.",
+              answer: "227",
+              options: [
+                { id: "500", text: "Até 500 litros por armário" },
+                { id: "227", text: "No máximo 227 litros por armário" }
+              ]
+            },
+            {
+              ask: "Empilhadeira em área com vapores inflamáveis. Pode operar sem classificação EE/ES?",
+              hint: "Em Zonas 0, 1 e 2, equipamentos móveis precisam de classificação EE ou ES. Sem essa certificação, o uso é proibido. Caminhões-tanque também precisam aterrar antes de abrir tampas ou válvulas.",
+              answer: "nao",
+              options: [
+                { id: "sim", text: "Sim, se o operador for experiente" },
+                { id: "nao", text: "Não. Sem EE ou ES, é proibido" }
+              ]
+            },
+            {
+              ask: "Tanques dentro do edifício. Qual regra vale?",
+              hint: "Dentro do edifício: projeto e APP/APR, área exclusiva no térreo/subsolo/pilotis, bacia de contenção e no máximo três tanques metálicos de até 3.000 litros cada, com paredes e portas corta-fogo. Externos ficam a pelo menos 15 metros de prédios habitados.",
+              answer: "tres",
+              options: [
+                { id: "cinco", text: "Até cinco tanques de 5.000 L" },
+                { id: "tres", text: "No máximo três tanques de 3.000 L" }
+              ]
+            },
+            {
+              ask: "Ventilação com recirculação atingiu 25% do LEL. O que o sistema faz?",
+              hint: "A concentração deve ficar abaixo de 25% do LEL. Com recirculação, os detectores desarmam a recirculação e convertem para exaustão externa total ao atingir 25% do LEL. Em ambientes fechados, a vazão mínima é 0,3 m³/min/m².",
+              answer: "exaustao",
+              options: [
+                { id: "segue", text: "Mantém a recirculação e só alarma" },
+                { id: "exaustao", text: "Desarma a recirculação e exaure para fora" }
+              ]
+            },
+            {
+              ask: "Choveu na bacia de contenção. Pode abrir a válvula e drenar agora?",
+              hint: "A bacia deve ter no mínimo 110% do maior tanque, mais a água de combate. As válvulas ficam fechadas e travadas com cadeado. A água de chuva só drena depois de análise de CQ ou ETE sem contaminantes.",
+              answer: "analise",
+              options: [
+                { id: "abre", text: "Sim. Abro e escoo na rede" },
+                { id: "analise", text: "Não. Só após análise sem contaminantes" }
+              ]
+            },
+            {
+              ask: "Quando testar chuveiros de emergência e lava-olhos?",
+              hint: "Chuveiros e lava-olhos devem ser testados no início de cada turno ou antes de iniciar a manipulação. Em risco grave e iminente, o trabalho é interrompido na hora.",
+              answer: "turno",
+              options: [
+                { id: "mes", text: "Uma vez por mês, na inspeção geral" },
+                { id: "turno", text: "No início de cada turno de trabalho" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      id: 5,
+      title: "Gestão Operacional de Riscos (APP/APR), Permissão de Trabalho (PT), Plano de Emergência (PAE) e Comunicação",
+      objective: "Capacitar os trabalhadores na gestão operacional de riscos com APP/APR, permissão de trabalho, plano de emergência e comunicação em situações de crise.",
+      titleUnlock: {
+        title: "RISCO NO LUGAR",
+        body: "Você diferencia perigo e risco, aplica APP/APR, PT, PAE e a notificação legal.",
+        icon: "✓"
+      },
+      screens: [
+        {
+          id: "nr20-m5-capa",
+          type: "cover",
+          image: "assets/fotos/capa-modulo5.png",
+          imageAlt: "Capa do módulo 5",
+          title: "Módulo 5 — Gestão Operacional de Riscos (APP/APR), Permissão de Trabalho (PT), Plano de Emergência (PAE) e Comunicação",
+          subtitle: "APP/APR, permissão de trabalho, plano de emergência e comunicação operacional.",
+          transcript: "Módulo 5. Gestão operacional de riscos, A P P e A P R, permissão de trabalho, plano de emergência P A E e comunicação."
+        },
+        {
+          id: "nr20-m5-app-apr",
+          type: "video",
+          kicker: "Vídeo",
+          title: "Análise Preliminar de Perigos e Riscos (APP/APR): Conceito e Diferença Essencial",
+          playerId: "panda-0dd436af-e1ed-4877-99ae-a06a9ea42685",
+          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=0dd436af-e1ed-4877-99ae-a06a9ea42685"
+        },
+        {
+          id: "nr20-m5-etapas-app",
+          type: "video",
+          kicker: "Vídeo",
+          title: "Etapas da APP/APR, Perigos Típicos e Hierarquia de Controle",
+          playerId: "panda-2004cbb5-cba8-4822-98a0-4663ef38d5c6",
+          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=2004cbb5-cba8-4822-98a0-4663ef38d5c6"
+        },
+        {
+          id: "nr20-m5-pt",
+          type: "video",
+          kicker: "Vídeo",
+          title: "Permissão de Trabalho (PT): Conceito, Atividades Críticas e Relação com a APR",
+          playerId: "panda-d068eda9-16db-4aef-9511-b63b11adfe20",
+          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=d068eda9-16db-4aef-9511-b63b11adfe20"
+        },
+        {
+          id: "nr20-m5-liberacao-pt",
+          type: "video",
+          kicker: "Vídeo",
+          title: "Etapas de Liberação da PT, Conteúdo Recomendado e Motivos de Interrupção",
+          playerId: "panda-5682d426-09a3-47f8-bce6-9234a7d408fb",
+          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=5682d426-09a3-47f8-bce6-9234a7d408fb"
+        },
+        {
+          id: "nr20-m5-vazamentos",
           type: "content",
           layout: "list",
           title: "Emergências com Inflamáveis",
@@ -415,7 +733,7 @@ window.QUESTION_SCREEN_SESSION = {
           transcript: "Emergências com inflamáveis. Em pequenos vazamentos, lavar a área com grande quantidade de água. Em grandes vazamentos: isolar a área, sinalizar o local, afastar os curiosos, eliminar as fontes de ignição, impedir a contaminação de fontes, lagos e rios, absorver o produto com areia, terra ou outro material absorvente e avisar imediatamente as autoridades locais."
         },
         {
-          id: "nr20-m4-brigada",
+          id: "nr20-m5-brigada",
           type: "video",
           kicker: "Vídeo",
           title: "Atuação da Brigada, Primeiros Socorros e Cortes de Segurança",
@@ -423,7 +741,7 @@ window.QUESTION_SCREEN_SESSION = {
           embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=b6655311-b205-4185-bab8-edd457471c60"
         },
         {
-          id: "nr20-m4-abandono",
+          id: "nr20-m5-abandono",
           type: "video",
           kicker: "Vídeo",
           title: "Protocolo de Abandono de Área e Contenção de Vazamentos",
@@ -431,71 +749,71 @@ window.QUESTION_SCREEN_SESSION = {
           embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=819f11bd-08e0-4e12-8458-dee74a97ab48"
         },
         {
-          id: "nr20-m4-notificacao",
+          id: "nr20-m5-notificacao",
           type: "video",
           kicker: "Vídeo",
-          title: "Análise Dinâmica de Risco, Notificação Ambiental e Quiz do PAE",
-          playerId: "panda-8d211acc-963b-4a28-aa67-cf16d8802274",
-          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=8d211acc-963b-4a28-aa67-cf16d8802274"
+          title: "Notificação Legal ao MTE, Investigação de Acidentes, Reciclagem e Conclusão",
+          playerId: "panda-3c8059e2-7405-4ef9-96b0-518b5789e10d",
+          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=3c8059e2-7405-4ef9-96b0-518b5789e10d"
         },
         {
-          id: "nr18-m4-console",
+          id: "nr20-m5-console",
           type: "console",
-          title: "Cinto certo",
+          title: "Decisão certa",
           body: "Uma situação por vez. Toque na ação certa.",
-          transcript: "Cinto certo. Uma situação por vez. Toque na ação certa.",
-          doneText: "As situações estão certas.",
+          transcript: "Decisão certa. Uma situação por vez. Toque na ação certa. São cinco situações sobre A P P e A P R, permissão de trabalho, P A E e notificação.",
+          doneText: "As cinco situações estão certas.",
           doneLabel: "Concluir",
           items: [
             {
-              ask: "Pela NR 06, o EPI é um equipamento de uso:",
-              hint: "É o dispositivo de uso individual que protege a segurança e a saúde. Na PEMT: capacete com jugular, bota com biqueira, óculos e luvas.",
-              answer: "individual",
+              ask: "A gasolina é inflamável. Isso é perigo ou risco?",
+              hint: "Perigo é a fonte com potencial de dano — a inflamabilidade da gasolina. Risco é a probabilidade de incêndio ou explosão se os vapores encontrarem ignição.",
+              answer: "perigo",
               options: [
-                { id: "coletivo", text: "Coletivo, da equipe" },
-                { id: "individual", text: "Individual, do trabalhador" }
+                { id: "risco", text: "Risco, porque pode explodir" },
+                { id: "perigo", text: "Perigo: a inflamabilidade da gasolina" }
               ]
             },
             {
-              ask: "O EPI rasgou no meio do turno. O que você faz?",
-              hint: "Use só para a finalidade certa, guarde, higienize e avise na hora quando ele ficar impróprio.",
-              answer: "aviso",
-              options: [
-                { id: "sigo", text: "Sigo usando" },
-                { id: "aviso", text: "Aviso que ficou impróprio" }
-              ]
-            },
-            {
-              ask: "Onde o talabarte fica preso no cesto?",
-              hint: "Todos no cesto usam SPIQ, ligado só no ponto indicado pelo fabricante. Não no guarda-corpo, na tubulação ou no prédio.",
-              answer: "fabricante",
-              options: [
-                { id: "guarda", text: "No guarda-corpo" },
-                { id: "fabricante", text: "No ponto do fabricante" }
-              ]
-            },
-            {
-              ask: "O cinturão paraquedista ficou frouxo. Você sobe?",
-              hint: "Ajuste peito e pernas antes. Cinto frouxo machuca órgão e coluna na queda. O talabarte vai na meia-argola dorsal.",
-              answer: "ajusto",
-              options: [
-                { id: "depois", text: "Sim. Aperto depois" },
-                { id: "ajusto", text: "Não. Ajusto antes" }
-              ]
-            },
-            {
-              ask: "O vento passou de 45 km/h. Você sobe mesmo assim?",
-              hint: "Não opere acima de 45 km/h nem a menos de 3 metros da rede. Cinto no ponto certo e sem sair do cesto.",
+              ask: "Na hierarquia de controle, o EPI sozinho elimina risco de incêndio e explosão?",
+              hint: "Elimine o perigo sempre que possível, use EPC e medidas administrativas. O EPI, isoladamente, não elimina os perigos de incêndio e explosão.",
               answer: "nao",
               options: [
-                { id: "subo", text: "Subo. O cinto segura" },
-                { id: "nao", text: "Não subo" }
+                { id: "sim", text: "Sim. Com EPI está seguro" },
+                { id: "nao", text: "Não. EPI sozinho não elimina" }
+              ]
+            },
+            {
+              ask: "Qual a relação entre APP/APR e Permissão de Trabalho?",
+              hint: "São complementares: a APP/APR analisa perigos e define controles; a PT verifica se as condições estão prontas no campo e libera o serviço.",
+              answer: "comp",
+              options: [
+                { id: "igual", text: "São o mesmo documento" },
+                { id: "comp", text: "São complementares: APR analisa, PT libera" }
+              ]
+            },
+            {
+              ask: "No meio da PT sai vazamento de gás. O que fazer?",
+              hint: "A PT não é autorização definitiva. Interrompa na hora se houver vazamento, gás perigoso, falha de ventilação, perda de bloqueio ou fonte de ignição imprevista.",
+              answer: "para",
+              options: [
+                { id: "segue", text: "Sigo. A PT já autorizou" },
+                { id: "para", text: "Interrompo o serviço na hora" }
+              ]
+            },
+            {
+              ask: "Houve queimadura de 2º grau com internação após explosão. A empresa comunica?",
+              hint: "Comunique imediatamente ao MTE e ao Sindicato: fatalidade, ferimentos por explosão, queimaduras de 2º ou 3º grau com internação, ou acionamento do PAE que exija intervenção.",
+              answer: "sim",
+              options: [
+                { id: "nao", text: "Não. Só registra internamente" },
+                { id: "sim", text: "Sim. Notifica MTE e Sindicato" }
               ]
             }
           ]
         },
         {
-          id: "nr11-m4-final",
+          id: "nr20-m5-final",
           type: "finale",
           image: "assets/fotos/capafinal.png",
           kicker: "Conclusão",
@@ -503,7 +821,7 @@ window.QUESTION_SCREEN_SESSION = {
           title: "Parabéns",
           body: "Você concluiu o treinamento de NR 20 - Segurança e Saúde no Trabalho com Inflamáveis e Combustíveis.",
           quote: "Proteger o coletivo é sempre a primeira escolha.",
-          chips: ["NR-20", "BÁSICO", "INFLAMÁVEIS"],
+          chips: ["NR-20", "INTERMEDIÁRIO", "INFLAMÁVEIS"],
           transcript: "Conclusão. Treinamento concluído. Parabéns. Você concluiu o treinamento de NR 20, Segurança e Saúde no Trabalho com Inflamáveis e Combustíveis. Proteger o coletivo é sempre a primeira escolha."
         }
       ]

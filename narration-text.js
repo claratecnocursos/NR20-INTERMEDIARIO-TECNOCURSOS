@@ -17,9 +17,9 @@
   // "100%" vira extenso para a voz não ler "por cento" errado.
   var HOME_TEXT = [
     'Segurança do Trabalho.',
-    'Básico. N R vinte. Segurança e saúde no trabalho com inflamáveis e combustíveis.',
+    'Intermediário. N R vinte. Segurança e saúde no trabalho com inflamáveis e combustíveis.',
     'Fundamentos e tipologia, checklist diário, operação segura, proteção contra quedas.',
-    'Quatro módulos completos.',
+    'Cinco módulos completos.',
     'Toque em iniciar o treinamento.'
   ].join(' ');
 
@@ -300,13 +300,13 @@
 
   function buildMenuCardText(session, moduleId, variant) {
     var mods = (session && session.modules) || [];
-    var nums = ['', 'um', 'dois', 'três', 'quatro'];
+    var nums = ['', 'um', 'dois', 'três', 'quatro', 'cinco'];
     var m = null;
     mods.forEach(function (mod) { if (mod.id === moduleId) m = mod; });
     var n = nums[moduleId] || String(moduleId);
     var total = nums[mods.length] || String(mods.length);
     var finished = variant === 'done' || variant === 'done-first';
-    var parts = ['N R vinte básico.'];
+    var parts = ['N R vinte intermediário.'];
     if (finished) parts.push('Você finalizou os módulos. Toque para revisar o Módulo ' + n + '.');
     else parts.push('Um módulo por vez. Ao concluir, o próximo é liberado.');
     parts.push(variant === 'done-first' ? 'Treinamento concluído.' : 'Você está aqui.');
@@ -319,9 +319,9 @@
 
   function buildMenuText(session, nextModule) {
     var mods = (session && session.modules) || [];
-    var nums = ['', 'um', 'dois', 'três', 'quatro'];
+    var nums = ['', 'um', 'dois', 'três', 'quatro', 'cinco'];
     var parts = [
-      'N R vinte básico.',
+      'N R vinte intermediário.',
       'Um módulo por vez. Ao concluir, o próximo é liberado.'
     ];
     if (nextModule) {

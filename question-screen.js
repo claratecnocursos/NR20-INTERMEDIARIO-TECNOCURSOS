@@ -787,6 +787,33 @@
       </article>`;
   }
 
+  function rolesHTML(data) {
+    var items = Array.isArray(data.items) ? data.items : [];
+    var cards = items.map(function (it, i) {
+      return `<article class="qs-roles-card" data-i="${i}">
+        <div class="qs-roles-mark" aria-hidden="true">
+          <span>${esc(it.metric || String(i + 1).padStart(2, '0'))}</span>
+        </div>
+        <div class="qs-roles-body">
+          ${it.tag ? `<span class="qs-roles-tag">${esc(it.tag)}</span>` : ''}
+          <h3>${esc(it.title || '')}</h3>
+          ${it.text ? `<p>${esc(it.text)}</p>` : ''}
+        </div>
+      </article>`;
+    }).join('');
+    return `
+      <article class="qs-screen is-content is-roles" data-qs-root data-type="content">
+        <div class="qs-roles">
+          <header class="qs-roles-head">
+            ${data.kicker ? `<span class="qs-roles-kicker">${esc(data.kicker)}</span>` : ''}
+            <h2>${esc(data.title || '')}</h2>
+            ${data.body ? `<p>${esc(data.body)}</p>` : ''}
+          </header>
+          <div class="qs-roles-grid count-${items.length}">${cards}</div>
+        </div>
+      </article>`;
+  }
+
   function fontesHTML(data) {
     var items = Array.isArray(data.items) ? data.items : [];
     var cards = items.map(function (it, i) {
@@ -826,6 +853,9 @@
   function contentHTML(data) {
     if (data.layout === 'defs') {
       return defsHTML(data);
+    }
+    if (data.layout === 'roles') {
+      return rolesHTML(data);
     }
     if (data.layout === 'fontes') {
       return fontesHTML(data);

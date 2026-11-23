@@ -34,7 +34,8 @@ window.QUESTION_SCREEN_SESSION = {
           kicker: "Vídeo",
           title: "Diretrizes Globais da NR 20: Objetivo, Público e Abrangência",
           playerId: "panda-fe2f6d94-fe3c-4430-ac1e-a224fd5de180",
-          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=fe2f6d94-fe3c-4430-ac1e-a224fd5de180"
+          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=fe2f6d94-fe3c-4430-ac1e-a224fd5de180",
+          transcript: "Vídeo. Diretrizes Globais da NR 20: Objetivo, Público e Abrangência. Assista ao vídeo para avançar."
         },
         {
           id: "nr20-m1-definicoes",
@@ -134,7 +135,8 @@ window.QUESTION_SCREEN_SESSION = {
           kicker: "Vídeo",
           title: "Propriedades Físico-Químicas e Estudo de Caso: GLP",
           playerId: "panda-20519fb0-8a21-4877-8f25-69e4a5a0c72a",
-          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=20519fb0-8a21-4877-8f25-69e4a5a0c72a"
+          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=20519fb0-8a21-4877-8f25-69e4a5a0c72a",
+          transcript: "Vídeo. Propriedades Físico-Químicas e Estudo de Caso: GLP. Assista ao vídeo para avançar."
         },
         {
           id: "nr20-m1-vapores",
@@ -142,7 +144,8 @@ window.QUESTION_SCREEN_SESSION = {
           kicker: "Vídeo",
           title: "Vapores Inflamáveis, Riscos de Explosão e Uso da FISPQ",
           playerId: "panda-28244be0-088c-46f1-a702-559392f6352d",
-          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=28244be0-088c-46f1-a702-559392f6352d"
+          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=28244be0-088c-46f1-a702-559392f6352d",
+          transcript: "Vídeo. Vapores Inflamáveis, Riscos de Explosão e Uso da FISPQ. Assista ao vídeo para avançar."
         },
         {
           id: "nr20-m1-vf",
@@ -210,7 +213,8 @@ window.QUESTION_SCREEN_SESSION = {
           kicker: "Vídeo",
           title: "Mapeamento e Controle das Fontes de Ignição",
           playerId: "panda-83d5c94f-2d24-470f-865f-65b2f524522e",
-          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=83d5c94f-2d24-470f-865f-65b2f524522e"
+          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=83d5c94f-2d24-470f-865f-65b2f524522e",
+          transcript: "Vídeo. Mapeamento e Controle das Fontes de Ignição. Assista ao vídeo para avançar."
         },
         {
           id: "nr20-m2-fontes",
@@ -238,7 +242,8 @@ window.QUESTION_SCREEN_SESSION = {
           kicker: "Vídeo",
           title: "Aterramento Elétrico e Prevenção de Eletricidade Estática",
           playerId: "panda-7d39b9ae-d621-4186-9bfa-6201f9567877",
-          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=7d39b9ae-d621-4186-9bfa-6201f9567877"
+          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=7d39b9ae-d621-4186-9bfa-6201f9567877",
+          transcript: "Vídeo. Aterramento Elétrico e Prevenção de Eletricidade Estática. Assista ao vídeo para avançar."
         },
         {
           id: "nr20-m2-armazenamento",
@@ -246,7 +251,8 @@ window.QUESTION_SCREEN_SESSION = {
           kicker: "Vídeo",
           title: "Regras Estritas de Armazenamento e Estocagem de Recipientes",
           playerId: "panda-fa72f404-f314-43f1-b9e0-db4546cd5c58",
-          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=fa72f404-f314-43f1-b9e0-db4546cd5c58"
+          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=fa72f404-f314-43f1-b9e0-db4546cd5c58",
+          transcript: "Vídeo. Regras Estritas de Armazenamento e Estocagem de Recipientes. Assista ao vídeo para avançar."
         },
         {
           id: "nr20-m2-manutencao",
@@ -254,7 +260,8 @@ window.QUESTION_SCREEN_SESSION = {
           kicker: "Vídeo",
           title: "Organização, Limpeza e Manutenção Preventiva",
           playerId: "panda-e0ea5407-c282-4a0a-814f-1b6732e33802",
-          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=e0ea5407-c282-4a0a-814f-1b6732e33802"
+          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=e0ea5407-c282-4a0a-814f-1b6732e33802",
+          transcript: "Vídeo. Organização, Limpeza e Manutenção Preventiva. Assista ao vídeo para avançar."
         },
         {
           id: "nr20-m2-matriz",
@@ -262,7 +269,8 @@ window.QUESTION_SCREEN_SESSION = {
           kicker: "Vídeo",
           title: "Matriz de Responsabilidades Intersetoriais na Gestão da NR 20",
           playerId: "panda-7b306a5a-0506-4871-a46c-f79bc818e7c8",
-          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=7b306a5a-0506-4871-a46c-f79bc818e7c8"
+          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=7b306a5a-0506-4871-a46c-f79bc818e7c8",
+          transcript: "Vídeo. Matriz de Responsabilidades Intersetoriais na Gestão da NR 20. Assista ao vídeo para avançar."
         },
         {
           id: "nr20-m2-setores",
@@ -317,7 +325,8 @@ window.QUESTION_SCREEN_SESSION = {
           kicker: "Vídeo",
           title: "Identificação de Perigos, Avaliação de Riscos e Controles Administrativos",
           playerId: "panda-8539e18e-2cc7-42ad-af40-b38de19f6c1f",
-          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=8539e18e-2cc7-42ad-af40-b38de19f6c1f"
+          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=8539e18e-2cc7-42ad-af40-b38de19f6c1f",
+          transcript: "Vídeo. Identificação de Perigos, Avaliação de Riscos e Controles Administrativos. Assista ao vídeo para avançar."
         },
         {
           id: "nr20-m2-pares",
@@ -362,7 +371,8 @@ window.QUESTION_SCREEN_SESSION = {
           kicker: "Vídeo",
           title: "Equipamentos de Proteção Coletiva (EPC) e Hierarquia de Segurança",
           playerId: "panda-ac316cca-b60d-448e-9de8-060c3334a1c7",
-          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=ac316cca-b60d-448e-9de8-060c3334a1c7"
+          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=ac316cca-b60d-448e-9de8-060c3334a1c7",
+          transcript: "Vídeo. Equipamentos de Proteção Coletiva (EPC) e Hierarquia de Segurança. Assista ao vídeo para avançar."
         },
         {
           id: "nr20-m3-epi",
@@ -370,7 +380,8 @@ window.QUESTION_SCREEN_SESSION = {
           kicker: "Vídeo",
           title: "Equipamentos de Proteção Individual (EPI), Regras da NR-6 e o CA",
           playerId: "panda-7082a746-7133-451a-a3af-43dad9216aff",
-          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=7082a746-7133-451a-a3af-43dad9216aff"
+          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=7082a746-7133-451a-a3af-43dad9216aff",
+          transcript: "Vídeo. Equipamentos de Proteção Individual (EPI), Regras da NR-6 e o CA. Assista ao vídeo para avançar."
         },
         {
           id: "nr20-m3-epi-corpo",
@@ -389,7 +400,8 @@ window.QUESTION_SCREEN_SESSION = {
           kicker: "Vídeo",
           title: "Sistemas de Proteção Contra Incêndios: Extintores, Água Nebulizada e Espuma",
           playerId: "panda-e9d41615-0e11-4872-b488-4d1ea834c31f",
-          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=e9d41615-0e11-4872-b488-4d1ea834c31f"
+          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=e9d41615-0e11-4872-b488-4d1ea834c31f",
+          transcript: "Vídeo. Sistemas de Proteção Contra Incêndios: Extintores, Água Nebulizada e Espuma. Assista ao vídeo para avançar."
         },
         {
           id: "nr20-m3-combate",
@@ -484,7 +496,8 @@ window.QUESTION_SCREEN_SESSION = {
           kicker: "Vídeo",
           title: "Armazenamento Secundário em Armários Corta-Fogo e Áreas de Doca",
           playerId: "panda-0555e721-e484-4af0-a107-0e88ec021229",
-          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=0555e721-e484-4af0-a107-0e88ec021229"
+          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=0555e721-e484-4af0-a107-0e88ec021229",
+          transcript: "Vídeo. Armazenamento Secundário em Armários Corta-Fogo e Áreas de Doca. Assista ao vídeo para avançar."
         },
         {
           id: "nr20-m4-zonas",
@@ -492,7 +505,8 @@ window.QUESTION_SCREEN_SESSION = {
           kicker: "Vídeo",
           title: "Classificação de Áreas (Zonas 0, 1 e 2), Equipamentos EE/ES e Aterramento Avançado",
           playerId: "panda-528d3c02-2925-4448-a5c9-01bb7c52f28c",
-          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=528d3c02-2925-4448-a5c9-01bb7c52f28c"
+          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=528d3c02-2925-4448-a5c9-01bb7c52f28c",
+          transcript: "Vídeo. Classificação de Áreas (Zonas 0, 1 e 2), Equipamentos EE/ES e Aterramento Avançado. Assista ao vídeo para avançar."
         },
         {
           id: "nr20-m4-limites-visuais",
@@ -533,7 +547,8 @@ window.QUESTION_SCREEN_SESSION = {
           kicker: "Vídeo",
           title: "Segurança em Sistemas de Tanques Externos e Interiores de Edifícios",
           playerId: "panda-7024c5fc-d35d-4a85-8d4e-d23965617e50",
-          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=7024c5fc-d35d-4a85-8d4e-d23965617e50"
+          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=7024c5fc-d35d-4a85-8d4e-d23965617e50",
+          transcript: "Vídeo. Segurança em Sistemas de Tanques Externos e Interiores de Edifícios. Assista ao vídeo para avançar."
         },
         {
           id: "nr20-m4-ventilacao",
@@ -541,7 +556,8 @@ window.QUESTION_SCREEN_SESSION = {
           kicker: "Vídeo",
           title: "Ventilação Industrial e Controle do Limite Inferior de Explosividade — LEL",
           playerId: "panda-88045b59-5901-414e-ab43-f2213f84d12b",
-          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=88045b59-5901-414e-ab43-f2213f84d12b"
+          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=88045b59-5901-414e-ab43-f2213f84d12b",
+          transcript: "Vídeo. Ventilação Industrial e Controle do Limite Inferior de Explosividade — LEL. Assista ao vídeo para avançar."
         },
         {
           id: "nr20-m4-bacias",
@@ -549,7 +565,8 @@ window.QUESTION_SCREEN_SESSION = {
           kicker: "Vídeo",
           title: "Bacias de Contenção Secundária, Drenagem e Travamento de Válvulas",
           playerId: "panda-4ed94ab8-d52e-4306-9749-9de7d4598ed8",
-          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=4ed94ab8-d52e-4306-9749-9de7d4598ed8"
+          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=4ed94ab8-d52e-4306-9749-9de7d4598ed8",
+          transcript: "Vídeo. Bacias de Contenção Secundária, Drenagem e Travamento de Válvulas. Assista ao vídeo para avançar."
         },
         {
           id: "nr20-m4-protecao",
@@ -591,7 +608,8 @@ window.QUESTION_SCREEN_SESSION = {
           kicker: "Vídeo",
           title: "Sistema por Dilúvio, Chuveiros Diários e Inspeção de Tanques",
           playerId: "panda-e513dde9-72ee-4c7d-8aae-a55d6e8fb8be",
-          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=e513dde9-72ee-4c7d-8aae-a55d6e8fb8be"
+          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=e513dde9-72ee-4c7d-8aae-a55d6e8fb8be",
+          transcript: "Vídeo. Sistema por Dilúvio, Chuveiros Diários e Inspeção de Tanques. Assista ao vídeo para avançar."
         },
         {
           id: "nr20-m4-limites",
@@ -685,7 +703,8 @@ window.QUESTION_SCREEN_SESSION = {
           kicker: "Vídeo",
           title: "Análise Preliminar de Perigos e Riscos (APP/APR): Conceito e Diferença Essencial",
           playerId: "panda-0dd436af-e1ed-4877-99ae-a06a9ea42685",
-          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=0dd436af-e1ed-4877-99ae-a06a9ea42685"
+          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=0dd436af-e1ed-4877-99ae-a06a9ea42685",
+          transcript: "Vídeo. Análise Preliminar de Perigos e Riscos (APP/APR): Conceito e Diferença Essencial. Assista ao vídeo para avançar."
         },
         {
           id: "nr20-m5-etapas-app",
@@ -693,7 +712,8 @@ window.QUESTION_SCREEN_SESSION = {
           kicker: "Vídeo",
           title: "Etapas da APP/APR, Perigos Típicos e Hierarquia de Controle",
           playerId: "panda-2004cbb5-cba8-4822-98a0-4663ef38d5c6",
-          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=2004cbb5-cba8-4822-98a0-4663ef38d5c6"
+          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=2004cbb5-cba8-4822-98a0-4663ef38d5c6",
+          transcript: "Vídeo. Etapas da APP/APR, Perigos Típicos e Hierarquia de Controle. Assista ao vídeo para avançar."
         },
         {
           id: "nr20-m5-pt",
@@ -701,7 +721,8 @@ window.QUESTION_SCREEN_SESSION = {
           kicker: "Vídeo",
           title: "Permissão de Trabalho (PT): Conceito, Atividades Críticas e Relação com a APR",
           playerId: "panda-d068eda9-16db-4aef-9511-b63b11adfe20",
-          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=d068eda9-16db-4aef-9511-b63b11adfe20"
+          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=d068eda9-16db-4aef-9511-b63b11adfe20",
+          transcript: "Vídeo. Permissão de Trabalho (PT): Conceito, Atividades Críticas e Relação com a APR. Assista ao vídeo para avançar."
         },
         {
           id: "nr20-m5-liberacao-pt",
@@ -709,7 +730,8 @@ window.QUESTION_SCREEN_SESSION = {
           kicker: "Vídeo",
           title: "Etapas de Liberação da PT, Conteúdo Recomendado e Motivos de Interrupção",
           playerId: "panda-5682d426-09a3-47f8-bce6-9234a7d408fb",
-          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=5682d426-09a3-47f8-bce6-9234a7d408fb"
+          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=5682d426-09a3-47f8-bce6-9234a7d408fb",
+          transcript: "Vídeo. Etapas de Liberação da PT, Conteúdo Recomendado e Motivos de Interrupção. Assista ao vídeo para avançar."
         },
         {
           id: "nr20-m5-vazamentos",
@@ -738,7 +760,8 @@ window.QUESTION_SCREEN_SESSION = {
           kicker: "Vídeo",
           title: "Atuação da Brigada, Primeiros Socorros e Cortes de Segurança",
           playerId: "panda-b6655311-b205-4185-bab8-edd457471c60",
-          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=b6655311-b205-4185-bab8-edd457471c60"
+          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=b6655311-b205-4185-bab8-edd457471c60",
+          transcript: "Vídeo. Atuação da Brigada, Primeiros Socorros e Cortes de Segurança. Assista ao vídeo para avançar."
         },
         {
           id: "nr20-m5-abandono",
@@ -746,7 +769,8 @@ window.QUESTION_SCREEN_SESSION = {
           kicker: "Vídeo",
           title: "Protocolo de Abandono de Área e Contenção de Vazamentos",
           playerId: "panda-819f11bd-08e0-4e12-8458-dee74a97ab48",
-          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=819f11bd-08e0-4e12-8458-dee74a97ab48"
+          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=819f11bd-08e0-4e12-8458-dee74a97ab48",
+          transcript: "Vídeo. Protocolo de Abandono de Área e Contenção de Vazamentos. Assista ao vídeo para avançar."
         },
         {
           id: "nr20-m5-notificacao",
@@ -754,7 +778,8 @@ window.QUESTION_SCREEN_SESSION = {
           kicker: "Vídeo",
           title: "Notificação Legal ao MTE, Investigação de Acidentes, Reciclagem e Conclusão",
           playerId: "panda-3c8059e2-7405-4ef9-96b0-518b5789e10d",
-          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=3c8059e2-7405-4ef9-96b0-518b5789e10d"
+          embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=3c8059e2-7405-4ef9-96b0-518b5789e10d",
+          transcript: "Vídeo. Notificação Legal ao MTE, Investigação de Acidentes, Reciclagem e Conclusão. Assista ao vídeo para avançar."
         },
         {
           id: "nr20-m5-console",

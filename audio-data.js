@@ -172,7 +172,7 @@ function catalogEntries(session) {
     { id: T.HOME_KEY, title: 'Abertura' },
     { id: 'menu-nr11-done', title: 'Menu, concluído' }
   ];
-  [1, 2, 3, 4].forEach(function (n) {
+  [1, 2, 3, 4, 5].forEach(function (n) {
     var variants = n === 1 ? ['start', 'review', 'done-first'] : ['start', 'review', 'done'];
     variants.forEach(function (variant) {
       entries.push({

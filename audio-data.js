@@ -24,12 +24,15 @@ function ttsSpeak(text) {
   t = t.replace(/\bNR[-\s]?33\b/gi, 'N R trinta e três');
   t = t.replace(/\bNR[-\s]?20\b/gi, 'N R vinte');
   t = t.replace(/\bNR[-\s]?18\b/gi, 'N R dezoito');
-  t = t.replace(/\bFISPQ\b/g, 'F I S P Q');
+  t = t.replace(/\bFDSs\b/g, 'F D S');
+  t = t.replace(/\bFDS\b/g, 'F D S');
   t = t.replace(/\bNR[-\s]?06\b/gi, 'N R zero seis');
   t = t.replace(/\bNR[-\s]?6\b/gi, 'N R seis');
   t = t.replace(/\bCA\b/g, 'C A');
   t = t.replace(/\bPEMT\b/g, 'P E M T');
+  t = t.replace(/\bPET\b/g, 'P E T');
   t = t.replace(/\bPTA\b/g, 'P T A');
+  t = t.replace(/\bPT\b/g, 'P T');
   t = t.replace(/\bSPIQ\b/g, 'S P I Q');
   t = t.replace(/\bNR[-\s]?11\b/gi, 'N R onze');
   t = t.replace(/\bPGR\b/g, 'P G R');
@@ -60,7 +63,6 @@ function ttsSpeak(text) {
   t = t.replace(/\bMDF\b/g, 'M D F');
   t = t.replace(/\bHQs\b/g, 'agá quês');
   t = t.replace(/\bHQ\b/g, 'agá quê');
-  t = t.replace(/\bFDS\b/g, 'F D S');
   t = t.replace(/\b0800\s*940\s*1265\b/g, 'zero oitocentos, nove quatro zero, um dois seis cinco');
   t = t.replace(/\b0800\s*770\s*2324\b/g, 'zero oitocentos, sete sete zero, dois três dois quatro');
   t = t.replace(/\bEPCs\b/g, 'E P Cs');

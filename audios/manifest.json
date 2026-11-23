@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-23T10:52:02.767Z",
+  "generatedAt": "2026-11-23T16:19:09.966Z",
   "source": "question-screen-data.js",
   "audioDir": "audios",
   "slides": [
@@ -191,9 +191,9 @@
     {
       "index": 23,
       "id": "nr20-m1-vapores",
-      "title": "Vapores Inflamáveis, Riscos de Explosão e Uso da FISPQ",
+      "title": "Vapores Inflamáveis, Riscos de Explosão e Uso da FDS",
       "file": "audios/nr20-m1-vapores.mp3",
-      "text": "Vídeo. Vapores Inflamáveis, Riscos de Explosão e Uso da F I S P Q. Assista ao vídeo para avançar.",
+      "text": "Vídeo. Vapores Inflamáveis, Riscos de Explosão e Uso da F D S. Assista ao vídeo para avançar.",
       "audioReady": true
     },
     {
@@ -265,7 +265,7 @@
       "id": "nr20-m2-setores",
       "title": "Responsabilidades intersetoriais",
       "file": "audios/nr20-m2-setores.mp3",
-      "text": "Responsabilidades intersetoriais. A gestão da N R vinte envolve uma cadeia de responsabilidades bem definida entre os setores da empresa. O Almoxarifado controla a planilha de consumo e garante as F I S P Qs atualizadas do estoque. As Áreas Usuárias solicitam essas fichas e as mantêm disponíveis junto ao posto de trabalho. O S G I ou Segurança do Trabalho gerencia o consumo, fornece os E P Is adequados, garante os chuveiros e lava-olhos de emergência, capacita colaboradores e terceiros e mantém o Prontuário da Instalação atualizado. A Manutenção inspeciona mensalmente as contenções secundárias, mantém suas válvulas de drenagem travadas e fechadas e zela pelos detectores e tubulações. A Engenharia elabora os projetos técnicos e o prontuário conforme as normas. E a Portaria controla rigorosamente a entrada de produtos químicos, liberando apenas cargas autorizadas por Segurança, Qualidade e Almoxarifado. Cada setor tem um papel vital na segurança coletiva!",
+      "text": "Responsabilidades intersetoriais. A gestão da N R vinte envolve uma cadeia de responsabilidades bem definida entre os setores da empresa. O Almoxarifado controla a planilha de consumo e garante as F D S atualizadas do estoque. As Áreas Usuárias solicitam essas fichas e as mantêm disponíveis junto ao posto de trabalho. O S G I ou Segurança do Trabalho gerencia o consumo, fornece os E P Is adequados, garante os chuveiros e lava-olhos de emergência, capacita colaboradores e terceiros e mantém o Prontuário da Instalação atualizado. A Manutenção inspeciona mensalmente as contenções secundárias, mantém suas válvulas de drenagem travadas e fechadas e zela pelos detectores e tubulações. A Engenharia elabora os projetos técnicos e o prontuário conforme as normas. E a Portaria controla rigorosamente a entrada de produtos químicos, liberando apenas cargas autorizadas por Segurança, Qualidade e Almoxarifado. Cada setor tem um papel vital na segurança coletiva!",
       "audioReady": true
     },
     {

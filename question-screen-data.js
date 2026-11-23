@@ -15,7 +15,7 @@ window.QUESTION_SCREEN_SESSION = {
       objective: "Apresentar a base regulamentar da NR 20, o campo de aplicação, as exceções legais, a classificação oficial das instalações industriais e a análise das propriedades físico-químicas, perigos e riscos dos produtos inflamáveis e combustíveis.",
       titleUnlock: {
         title: "FRASES NO LUGAR",
-        body: "Você separou o que a NR 20 afirma sobre inflamáveis, classes, GLP e FISPQ.",
+        body: "Você separou o que a NR 20 afirma sobre inflamáveis, classes, GLP e FDS.",
         icon: "✓"
       },
       screens: [
@@ -142,10 +142,10 @@ window.QUESTION_SCREEN_SESSION = {
           id: "nr20-m1-vapores",
           type: "video",
           kicker: "Vídeo",
-          title: "Vapores Inflamáveis, Riscos de Explosão e Uso da FISPQ",
+          title: "Vapores Inflamáveis, Riscos de Explosão e Uso da FDS",
           playerId: "panda-28244be0-088c-46f1-a702-559392f6352d",
           embed: "https://player-vz-d35edf2a-8e7.tv.pandavideo.com.br/embed/?v=28244be0-088c-46f1-a702-559392f6352d",
-          transcript: "Vídeo. Vapores Inflamáveis, Riscos de Explosão e Uso da FISPQ. Assista ao vídeo para avançar."
+          transcript: "Vídeo. Vapores Inflamáveis, Riscos de Explosão e Uso da FDS. Assista ao vídeo para avançar."
         },
         {
           id: "nr20-m1-vf",
@@ -180,7 +180,7 @@ window.QUESTION_SCREEN_SESSION = {
               hint: "Propano e butano são inodoros. O cheiro é da mercaptana."
             },
             {
-              text: "A FISPQ fica acessível no local de trabalho, com os riscos, os limites e as medidas de emergência.",
+              text: "A FDS fica acessível no local de trabalho, com os riscos, os limites e as medidas de emergência.",
               bin: "verdadeiro",
               hint: "A ficha de informação de segurança tem de estar acessível no trabalho."
             }
@@ -281,16 +281,16 @@ window.QUESTION_SCREEN_SESSION = {
           body: "Cada setor da empresa tem um papel definido na gestão da NR 20 — juntos formam a segurança coletiva.",
           items: [
             {
-              tag: "Estoque e FISPQ",
+              tag: "Estoque e FDS",
               metric: "01",
               title: "Almoxarifado",
-              text: "Controla a planilha de consumo e mantém as FISPQs do estoque atualizadas."
+              text: "Controla a planilha de consumo e mantém as FDS do estoque atualizadas."
             },
             {
               tag: "Posto de trabalho",
               metric: "02",
               title: "Áreas Usuárias",
-              text: "Solicitam as FISPQs e as mantêm disponíveis no posto de trabalho."
+              text: "Solicitam as FDS e as mantêm disponíveis no posto de trabalho."
             },
             {
               tag: "SST e prontuário",
@@ -317,7 +317,7 @@ window.QUESTION_SCREEN_SESSION = {
               text: "Libera só cargas autorizadas por Segurança, Qualidade e Almoxarifado."
             }
           ],
-          transcript: "Responsabilidades intersetoriais. A gestão da N R vinte envolve uma cadeia de responsabilidades bem definida entre os setores da empresa. O Almoxarifado controla a planilha de consumo e garante as F I S P Qs atualizadas do estoque. As Áreas Usuárias solicitam essas fichas e as mantêm disponíveis junto ao posto de trabalho. O S G I ou Segurança do Trabalho gerencia o consumo, fornece os E P Is adequados, garante os chuveiros e lava-olhos de emergência, capacita colaboradores e terceiros e mantém o Prontuário da Instalação atualizado. A Manutenção inspeciona mensalmente as contenções secundárias, mantém suas válvulas de drenagem travadas e fechadas e zela pelos detectores e tubulações. A Engenharia elabora os projetos técnicos e o prontuário conforme as normas. E a Portaria controla rigorosamente a entrada de produtos químicos, liberando apenas cargas autorizadas por Segurança, Qualidade e Almoxarifado. Cada setor tem um papel vital na segurança coletiva!"
+          transcript: "Responsabilidades intersetoriais. A gestão da N R vinte envolve uma cadeia de responsabilidades bem definida entre os setores da empresa. O Almoxarifado controla a planilha de consumo e garante as F D S atualizadas do estoque. As Áreas Usuárias solicitam essas fichas e as mantêm disponíveis junto ao posto de trabalho. O S G I ou Segurança do Trabalho gerencia o consumo, fornece os E P Is adequados, garante os chuveiros e lava-olhos de emergência, capacita colaboradores e terceiros e mantém o Prontuário da Instalação atualizado. A Manutenção inspeciona mensalmente as contenções secundárias, mantém suas válvulas de drenagem travadas e fechadas e zela pelos detectores e tubulações. A Engenharia elabora os projetos técnicos e o prontuário conforme as normas. E a Portaria controla rigorosamente a entrada de produtos químicos, liberando apenas cargas autorizadas por Segurança, Qualidade e Almoxarifado. Cada setor tem um papel vital na segurança coletiva!"
         },
         {
           id: "nr20-m2-riscos",
@@ -818,21 +818,21 @@ window.QUESTION_SCREEN_SESSION = {
               ]
             },
             {
-              ask: "No meio da PT sai vazamento de gás. O que fazer?",
-              hint: "A PT não é autorização definitiva. Interrompa na hora se houver vazamento, gás perigoso, falha de ventilação, perda de bloqueio ou fonte de ignição imprevista.",
+              ask: "Após a emissão da PET, durante a realização do trabalho surge um vazamento de gás. O que fazer?",
+              hint: "A PET não é autorização definitiva. Interrompa na hora se houver vazamento, gás perigoso, falha de ventilação, perda de bloqueio ou fonte de ignição imprevista.",
               answer: "para",
               options: [
-                { id: "segue", text: "Sigo. A PT já autorizou" },
+                { id: "segue", text: "Sigo. A PET já autorizou" },
                 { id: "para", text: "Interrompo o serviço na hora" }
               ]
             },
             {
-              ask: "Houve queimadura de 2º grau com internação após explosão. A empresa comunica?",
-              hint: "Comunique imediatamente ao MTE e ao Sindicato: fatalidade, ferimentos por explosão, queimaduras de 2º ou 3º grau com internação, ou acionamento do PAE que exija intervenção.",
-              answer: "sim",
+              ask: "Houve um acidente de trabalho com queimadura de 2 grau e internação após a explosão. O que a empresa deve fazer?",
+              hint: "Em acidente com queimadura de 2º grau e internação após explosão, a empresa deve emitir a CAT no e-Social e informar o sindicato.",
+              answer: "cat",
               options: [
                 { id: "nao", text: "Não. Só registra internamente" },
-                { id: "sim", text: "Sim. Notifica MTE e Sindicato" }
+                { id: "cat", text: "Emitir a CAT no e-Social e informar o sindicato" }
               ]
             }
           ]
